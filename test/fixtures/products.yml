@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyText
+  decription: MyString
+  registered_at: 2014-02-27 11:16:14
+  manufacturer: MyText
+  stock: 1
+
+two:
+  name: MyText
+  decription: MyString
+  registered_at: 2014-02-27 11:16:14
+  manufacturer: MyText
+  stock: 1
