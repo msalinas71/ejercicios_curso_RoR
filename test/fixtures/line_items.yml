@@ -1,11 +1,13 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  product_name: MyText
   quantity: 1
   price: 1.5
+  product_id: 
+  order_id: 
 
 two:
-  product_name: MyText
   quantity: 1
   price: 1.5
+  product_id: 
+  order_id: 
